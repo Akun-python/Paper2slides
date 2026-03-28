@@ -1,0 +1,17 @@
+.env
+.accelerate/
+.tmp/
+.vscode/
+__pycache__/
+ppt_agent/__pycache__/
+tests/__pycache__/
+output/
+
+*.aux
+*.log
+*.nav
+*.out
+*.pdf
+*.snm
+*.synctex(busy)
+*.synctex.gz
